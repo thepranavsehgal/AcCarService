@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+img{
+    float: right;
+    border: 1px solid black;
+}
+p{
+    float: left;
+    border: 1px solid black;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.nav{
+    background-color: black;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}

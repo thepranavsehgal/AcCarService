@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style3.css">
+    <script src="https://kit.fontawesome.com/15cfc8e9dc.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <h1>Our Services</h1>
+    <div class="container">
+        <div class="d1">
+            <p>
+                <i class="fa-regular fa-snowflake"></i><br>
+                <strong>Air Conditioning Service</strong><br>
+                Car A/C Repair and Services of all Indian & Imported Cars.
+            </p>
+        </div>
+        <div class="d1">
+            <p>
+                <i class="fa-solid fa-screwdriver-wrench"></i><br>
+                <strong>New A/C Unit Fitting Services</strong><br>
+                Car A/C New Unit Fittings of all Indian & Imported Cars.
+            </p>
+        </div>
+        <div class="d1">
+            <p>
+                <i class="fa-solid fa-gear"></i><br>
+                <strong>Car A/C Maintenance</strong><br><br>
+                Car A/C Maintenance (& AMC) of all Indian & Imported Cars.
+            </p>
+        </div>
+        <div class="d1">
+            <p>
+                <i class="fa-solid fa-list-check"></i><br>
+                <strong>Other Services</strong><br><br>
+                Other Services Like AC Gas, Condenser Cleaning, AC Filter Cleaning, AC Vent Cleaning are also available
+            </p>
+        </div>
+    </div>
+</body>
+</html>

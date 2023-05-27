@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid black;
+    justify-content: space-evenly;
+    align-items: stretch;
+    align-content: center;
+    
+}
+
+.d1{
+    width: 180px;
+    height: 180px;
+    margin: 5px;
+    /* background-color: red; */
+    font-family: sans-serif;
+}
+
+body{
+    background: url(https://galaxytoyota.in/blog/wp-content/uploads/2019/05/general-car-repair-CA-Motor-Works.jpg) no-repeat;
+    width: 100%;
+}
+.nav{
+    background-color: black;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}

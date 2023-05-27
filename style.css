@@ -1,0 +1,55 @@
+.nav{
+    background-color: black;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.container , .footer{
+    display: flex;
+    flex-wrap: wrap;
+    /* border: 1px solid black; */
+    justify-content: space-between;
+    margin-top: 10px;
+    align-items: stretch;
+    align-content: center;
+}
+.h1{
+    width: 180px;
+    height: 180px;
+    margin: 12px;
+    /* background-color: red; */
+    font-family: sans-serif;
+}
+.p1{
+    width: 250px;
+    height: 180px;
+    margin: 12px;
+    /* background-color: red; */
+    font-family: sans-serif;
+    /* border: 1px black dotted */
+}
+
+h4{
+    font-size: 3px;
+}
+
+.text{
+    font-size: 5px;
+}
+
+.contact-container{
+    background-image: url('https://img.freepik.com/free-photo/muscular-car-service-worker-repairing-vehicle_146671-19605.jpg?w=600');
+    /* width: 380px; 
+    height: 300px;; */
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+.icons{
+    text-align: center;
+}
+td {
+    text-align: center;
+}
+
